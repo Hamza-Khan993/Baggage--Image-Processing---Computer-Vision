@@ -40,7 +40,7 @@ For this, we use cv2.addWeighted() method.
 This is also addition but different weights are given to images so that it gives a feeling of blending or transparency.
 Here I took two images to blend them together. First image is given a weight of 0.6 and second image is given 0.4
 
-# Bitwise Operation and Image Blending is performed for each background seperately. For every background image , threat object is added to it using for loop.
+### *Bitwise Operation and Image Blending is performed for each background seperately. For every background image , threat object is added to it using for loop.
 
-# Each parameter in the code can be tweaked to get desired results. Such as position of object, intensity of object, size of object.
+### *Each parameter in the code can be tweaked to get desired results. Such as position of object, intensity of object, size of object.
 
